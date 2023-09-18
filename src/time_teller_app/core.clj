@@ -1,10 +1,19 @@
 (ns time-teller-app.core
-  (:require [ring.adapter.jetty :as jetty]))
+  (:require [ring.util.response :as response]
+            [compojure.core :refer [defroutes GET]]))
 
-(defn app [request]
-  {:status 200
-   :headers {"Content-Type" "text/plain"}
-   :body (str "The current time is: " (java.time.LocalTime/now))})
+(defn home-page [request]
+  (response "Welcome to Time Teller App!"))
 
-(defn -main [& args]
-  (jetty/run-jetty app {:port 3030}))
+(defn current-time []
+  (str "The current time is: " (java.time.LocalTime/now)))
+
+(defroutes app-routes
+  (GET "/" [] home-page)
+  (GET "/time" [] (response (current-time))))
+
+(def app
+  (-> app-routes
+      ; middlewares if any
+      ))
+
