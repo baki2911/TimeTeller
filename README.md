@@ -1,6 +1,6 @@
 # time-teller-app
 
-A Clojure library designed to ... well, that part is up to you.
+Descripiption : A Clojure library designed to ... well, that part is up to you.
 
 ## Usage
 
