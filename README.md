@@ -17,6 +17,8 @@ In today's digital age, where screens are inundated with information, Time Telle
 But beneath its simple facade lies a robust framework, built to ensure accuracy and reliability. Whether you're a professional needing a quick time check during a busy day, a student trying to manage study schedules, or just someone who appreciates the elegance of straightforward design, Time Teller App is the perfect companion. In a world that's constantly racing against time, here's an app that lets you pause, even if just for a moment, and simply embrace the present.
 
 
+But beneath its simple facade lies a robust framework, built to ensure accuracy and reliability. Whether you're a professional needing a quick time check during a busy day, a student trying to manage study schedules, or just someone who appreciates the elegance of straightforward design, Time Teller App is the perfect companion. In a world that's constantly racing against time, here's an app that lets you pause, even if just for a moment, and simply embrace the present
+
 
 
 
