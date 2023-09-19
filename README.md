@@ -5,6 +5,9 @@ Descripiption : A Clojure library designed to ... well, that part is up to you.
 ## Usage
 
 time-teller-app
+
+Desription
+
 Time Teller App is a Clojure-based web application designed to provide users with the current time in a simple and intuitive manner. With an easy-to-use interface and straightforward functionality, this app can be utilized by anyone looking to keep track of time without any unnecessary features or distractions
 
 Time Teller App is a seamless fusion of simplicity and utility, offering users an effortless way to access the current time. Crafted meticulously with Clojure, the application is a testament to the beauty of minimalist design that serves a singular purpose without the clutter of extraneous features.
